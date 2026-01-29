@@ -1,4 +1,4 @@
-*Simple ML Inference API*
+# *Simple ML Inference API*
 
 This repository contains a simple ML inference API built using FastAPI. The API serves a pre-trained Iris classification model and provides an endpoint for making predictions based on input features.
 ## Features
