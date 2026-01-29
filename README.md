@@ -44,5 +44,6 @@ This repository contains a simple ML inference API built using FastAPI. The API 
   "probabilities": 0.08,
   "model_version": "1.0.0"
 }
+```
 
 **This is very simple ML inference API for practicing deployment of ML models using FastAPI and architecting the project structure.**
